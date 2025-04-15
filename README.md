@@ -17,7 +17,8 @@ datasets:
 
 # CTF-Helper
 Model Link - https://huggingface.co/ShadowEternity/CTFsolver
-Done for ML - Mini Project by:
+
+#### Done for ML - Mini Project by:
 - Akash Varunn
 - Martin Rozariyo
 - Praneesh  R V
